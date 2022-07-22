@@ -1,6 +1,4 @@
 (ns estoque.core)
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+(println "Bem vindo ao sistema de estoque")
+
