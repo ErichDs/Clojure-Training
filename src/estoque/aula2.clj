@@ -13,7 +13,7 @@
 (defn aplica-desconto [valor-bruto]
   (* valor-bruto 0.9))
 
-(println (aplica-desconto 100))
+(println (apply-discount 100))
 
 
 (defn valor-descontado
