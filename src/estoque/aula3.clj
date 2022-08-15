@@ -69,7 +69,6 @@
 
 (defn aplica-desconto?
   [valor-bruto]
-  (println "chamando a versao direta")
   (> valor-bruto 100))
 
 
